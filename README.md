@@ -1,2 +1,3 @@
 # amplitude_modulation
 This repository contains the MATLAB code for Amplitude Modulation. This can also be done using MATLAB Simulink. I have done it by writing a code in MATLAB Editor. 
+This code contains user imput of Carrier wave, message signal and modulating index and subsequently calculates it and plots it in using the plot command. Three waves have been plotted simultaneously in the same figure. I have scaled down the time axis as needed and have done the same for all the parameters. This makes the plots look pretty. Do not get confused by seeing the carrier wave. It is scaled down to a different level than the message signal. Hope this would help.
