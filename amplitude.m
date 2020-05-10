@@ -16,7 +16,7 @@ subplot(3,1,1)
 plot(t2, carrier_wave, 'r');
 title('carrier signal');
 
-message_wave = (Ac/m)*sin(2*pi*fm*t1);
+message_wave = (Ac*m)*sin(2*pi*fm*t1);
 subplot(3,1,2)
 plot(t1, message_wave, 'b');
 title('Message Signal');
